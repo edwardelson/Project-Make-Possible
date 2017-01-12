@@ -18,6 +18,7 @@
 * At the end of the makerthon, a panel of judges will determine three winners based on a set of criteria. The winners will proceed to the next stage: Summer Project.   
 
 ![Make-Possible 1](https://dl.dropboxusercontent.com/s/p2tlguyuco5utb2/makepos2.jpg?dl=0)  
+
 ![Make-Possible 2](https://dl.dropboxusercontent.com/s/kgxv7tkriuanip0/makepos.JPG?dl=0)  
 
 # FEATURED IN MEDIA
