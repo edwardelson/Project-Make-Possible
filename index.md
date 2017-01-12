@@ -1,4 +1,4 @@
-#ABSTRACT
+# ABSTRACT
 [Project Make-Possible](https://www.facebook.com/project.make.possible) is an initiative to introduce and promote the spirit of humanitarian engineering among students in the National University of Singapore (NUS). It consists of a series of events geared toward getting students to learn and experience the works of humanitarian engineers.    
 
 ![Make-Possible Poster](https://dl.dropboxusercontent.com/s/nft0lhnldnuos42/Make-Possible%20NUS.jpg?dl=0)  
@@ -20,10 +20,10 @@
 ![Make-Possible 1](https://dl.dropboxusercontent.com/s/p2tlguyuco5utb2/makepos2.jpg?dl=0)  
 ![Make-Possible 2](https://dl.dropboxusercontent.com/s/kgxv7tkriuanip0/makepos.JPG?dl=0)  
 
-#FEATURED IN MEDIA
+# FEATURED IN MEDIA
 [Singapore Society for Physically Disabled](http://www.spd.org.sg/updates/detail/engineering-for-greater-good-422.html)  
 
-#ABOUT THE ORGANIZERS
+# ABOUT THE ORGANIZERS
 
 [Edward Elson](http://edwardelson.github.io) | Chan Yimeng | Toh Yishan | Gan Junherng | Low Jiawee | Wang Yujia | Wang Erdong | Nicholas Tham
 
