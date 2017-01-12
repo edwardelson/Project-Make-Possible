@@ -1,14 +1,14 @@
 #ABSTRACT
 [Project Make-Possible](https://www.facebook.com/project.make.possible) is an initiative to introduce and promote the spirit of humanitarian engineering among students in the National University of Singapore (NUS). It consists of a series of events geared toward getting students to learn and experience the works of humanitarian engineers.    
 
-![Make-Possible Poster](https://googledrive.com/host/0B3qXE5D5r-qCYzhBUF81cFN6Wlk/Make-Possible NUS.jpg)  
+![Make-Possible Poster](https://dl.dropboxusercontent.com/s/nft0lhnldnuos42/Make-Possible%20NUS.jpg?dl=0)  
 
 ## HUMANITARIAN ENGINEERING TALK
 * We invited two prominent speakers who are active in the field of humanitarian engineering in Singapore to share about their work and experiences to NUS students.
 * Through this talk, we hope that NUS students will get a better idea on what and how humanitarian engineering is. 
 * It was held on March 16th, 2015 in Engineering Design and Innovation Center (EDIC) E1A Studio 1 with the help and support of Design Centric Programme (DCP) Students’ Club. It is open for all NUS students.
 
-![Humanitarian Engineering Talk](https://googledrive.com/host/0B3qXE5D5r-qCYzhBUF81cFN6Wlk/het-mp.jpg) 
+![Humanitarian Engineering Talk](https://dl.dropboxusercontent.com/s/3k82kqv17r2wo1b/het-mp.jpg?dl=0) 
 
 ## MAKERTHON
 * The Makerthon consists of four events, Site Visits, Workshops, Prototyping and Presentation.  
@@ -17,8 +17,8 @@
 * There will be several problem statements given by SPD. Each team will have to choose one and develop prototypes to solve it. Two or more teams might work on the same problem statement.  
 * At the end of the makerthon, a panel of judges will determine three winners based on a set of criteria. The winners will proceed to the next stage: Summer Project.   
 
-![Make-Possible 1](https://googledrive.com/host/0B3qXE5D5r-qCYzhBUF81cFN6Wlk/DSC_0931_lzn.jpg)  
-![Make-Possible 1](https://googledrive.com/host/0B3qXE5D5r-qCYzhBUF81cFN6Wlk/DSC_0369.jpg)  
+![Make-Possible 1](https://dl.dropboxusercontent.com/s/p2tlguyuco5utb2/makepos2.jpg?dl=0)  
+![Make-Possible 2](https://dl.dropboxusercontent.com/s/kgxv7tkriuanip0/makepos.JPG?dl=0)  
 
 #FEATURED IN MEDIA
 [Singapore Society for Physically Disabled](http://www.spd.org.sg/updates/detail/engineering-for-greater-good-422.html)  
